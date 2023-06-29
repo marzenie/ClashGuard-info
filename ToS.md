@@ -1,0 +1,1 @@
+# ToS ClashofClans-Verify
