@@ -6,14 +6,6 @@ By inviting the bot and using its features are you agreeing to the below mention
 
 You acknowledge that you have the priviledge to use the bot freely on any Discord Server (Server) you share with it, that you can invite it to any Server that you have "Manage Server" rights for and that this priviledge might get revoked for you, if you're subject of breaking the terms and/or policy of this bot, or the [Terms of Service](https://discord.com/terms), [Privacy Policy](https://discord.com/privacy) and/or Community Guidelines of [Discord Inc](https://discord.com/).
 
-## Access to Data
-
-Access to Data is only permitted to Bot's developers, and only in the scope required for the development, testing, and implementation of features for Bot. Data is not sold, provided to, or shared with any third party, except where required by law or a Terms of Service agreement.
-
-## Storage of Data
-
-Data is stored in a MySQL database. The database is secured to prevent external access, however no guarantee is provided and the Bot owners assume no liability for the unintentional or malicious breach of Data. In the event of an unauthorised Data access, users will be notified through the Discord client application.
-
 ## Modifications and Interruptions
 
 We reserve the right to change, modify, or remove the contents of the bot at any time or for any reason at our sole discretion without notice. However, we have no obligation to update any information on our bot. We also reserve the right to modify or discontinue all or part of the bot without notice at any time. We will not be liable to you or any third party for any modification, price change, suspension, or discontinuance of the bot.
