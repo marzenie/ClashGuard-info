@@ -121,6 +121,7 @@
 		"command_info_content_to_pair_clan": "To pair the clan, write:",
 		"command_info_content_setrank": "To set ranks in the clan, write:",
 		"command_info_content_settings": "To change bot settings, write:",
+		"command_info_content_debug": "To check the correctness of the settings, write:",
 		"command_info_content_pair_acc": "Pairing DC account with CLASH:",
 		"command_info_content_tag_verify_location": "Where to get the **TAG** for verification?",
 		"command_info_content_tag_verify_location_desc": "In the game, click the blue icon with your level in the top left corner, then go to the profile tab and copy the code below your nickname. In my case, it is %s.",

@@ -121,6 +121,7 @@
 		"command_info_content_to_pair_clan": "For at parre klanen, skriv:",
 		"command_info_content_setrank": "For at indstille rang i klanen, skriv:",
 		"command_info_content_settings": "For at ændre botindstillinger, skriv:",
+		"command_info_content_debug": "For at kontrollere korrektheden af indstillingerne, skriv:",
 		"command_info_content_pair_acc": "Parring af DC-konto med CLASH:",
 		"command_info_content_tag_verify_location": "Hvor finder du **TAG** til verifikation?",
 		"command_info_content_tag_verify_location_desc": "I spillet skal du klikke på den blå ikon med dit niveau i øverste venstre hjørne, derefter gå til fanen profil og kopiere koden under dit kaldenavn. I mit tilfælde er det %s.",

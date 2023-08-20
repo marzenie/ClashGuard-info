@@ -121,6 +121,7 @@
 		"command_info_content_to_pair_clan": "Um die Gilde zu verbinden, schreibe:",
 		"command_info_content_setrank": "Um Ränge in der Gilde festzulegen, schreibe:",
 		"command_info_content_settings": "Um Bot-Einstellungen zu ändern, schreibe:",
+		"command_info_content_debug": "Um die Richtigkeit der Einstellungen zu überprüfen, schreiben Sie:",
 		"command_info_content_pair_acc": "DC-Konto mit CLASH verbinden:",
 		"command_info_content_tag_verify_location": "Wo bekomme ich den **TAG** für die Verifikation?",
 		"command_info_content_tag_verify_location_desc": "Im Spiel klicke auf das blaue Symbol mit deinem Level in der oberen linken Ecke, gehe dann zum Profil-Tab und kopiere den Code unter deinem Spitznamen. In meinem Fall lautet er %s.",

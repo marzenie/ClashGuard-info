@@ -121,6 +121,7 @@
 		"command_info_content_to_pair_clan": "Per abbinare la gilda, scrivi:",
 		"command_info_content_setrank": "Per impostare i ranghi nella gilda, scrivi:",
 		"command_info_content_settings": "Per cambiare le impostazioni del bot, scrivi:",
+		"command_info_content_debug": "Per verificare la correttezza delle impostazioni, scrivi:"
 		"command_info_content_pair_acc": "Abbinamento dell'account DC a CLASH:",
 		"command_info_content_tag_verify_location": "Dove trovare il **TAG** per la verifica?",
 		"command_info_content_tag_verify_location_desc": "Nel gioco, fai clic sull'icona blu con il tuo livello nell'angolo in alto a sinistra, quindi vai alla scheda del profilo e copia il codice sotto il tuo soprannome. Nel mio caso, è %s.",

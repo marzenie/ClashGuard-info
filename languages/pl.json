@@ -121,6 +121,7 @@
 		"command_info_content_to_pair_clan": "Aby sparować klan, napisz:",
 		"command_info_content_setrank": "Aby ustawić rangi w klanie, napisz:",
 		"command_info_content_settings": "Aby zmienić ustawienia bota, napisz:",
+		"command_info_content_debug": "Aby sprawdzić poprawność ustawień napisz:",
 		"command_info_content_pair_acc": "Sparowanie konta DC z CLASH:",
 		"command_info_content_tag_verify_location": "Gdzie znaleźć **TAG** do weryfikacji?",
 		"command_info_content_tag_verify_location_desc": "W grze kliknij niebieską ikonę z Twoim poziomem w lewym górnym rogu, następnie przejdź do zakładki profilu i skopiuj kod pod swoim pseudonimem. W moim przypadku to %s.",
