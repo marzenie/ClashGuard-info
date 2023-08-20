@@ -78,7 +78,7 @@
 		"warn_ranks_priority": "Ranga bota nie jest na górze, jeśli gracz ma wyższą rangę niż bot, bot nie będzie w stanie go zarządzać.",
 		"required_permissions": "Bot wymaga następujących uprawnień:",
 		"info_current_settings": "Aktualne ustawienia:",
-		"help_message": "Wiadomość Pomocy:",
+		"help_message": "Wiadomość pomocniczna:",
 		"contact_the_creator": "Skontaktuj się z właścicielem bota.",
 		
 		"command_debug": "debugowanie",
