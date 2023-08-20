@@ -39,4 +39,4 @@ use the `locale` column for your language
 | ko         | Korean                | 한국어              |
 
 
-bot link: (https://discord.com/application-directory/837200602101972993)[https://discord.com/application-directory/837200602101972993]
+bot link: [https://discord.com/application-directory/837200602101972993](https://discord.com/application-directory/837200602101972993)
