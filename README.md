@@ -37,3 +37,6 @@ use the `locale` column for your language
 | ja         | Japanese              | 日本語              |
 | zh-TW      | Chinese, Taiwan       | 繁體中文            |
 | ko         | Korean                | 한국어              |
+
+
+bot link: (https://discord.com/application-directory/837200602101972993)[https://discord.com/application-directory/837200602101972993]
