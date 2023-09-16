@@ -1,5 +1,6 @@
 {
 	"pl": {
+		"hello": "Hej",
 		"error_sending_message": "Wystąpił błąd podczas wysyłania wiadomości:",
 		"error_player_not_found_title": "Nie znaleziono Gracza.",
 		"error_player_not_found_content": "Nie znaleziono gracza o podanym tagu. Proszę podać poprawny tag.",

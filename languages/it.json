@@ -1,5 +1,6 @@
 {
 	"it": {
+		"hello": "Ciao",
 		"error_sending_message": "Si è verificato un errore durante l'invio del messaggio:",
 		"error_player_not_found_title": "Giocatore non trovato.",
 		"error_player_not_found_content": "Nessun giocatore con il tag fornito è stato trovato. Si prega di fornire un tag valido.",
