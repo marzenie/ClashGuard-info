@@ -1,6 +1,10 @@
 {
 	"en-US": {
 		"hello": "Hello",
+		"how_use": "to check how to use the bot",
+		"write": "write",
+		"report_bugs": "Report any problems and errors to the",
+		"support_server": "support server",
 		"error_sending_message": "An error occurred while sending the message:",
 		"error_player_not_found_title": "Player Not Found.",
 		"error_player_not_found_content": "No player with the provided tag was found. Please provide a valid tag.",

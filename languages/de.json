@@ -1,6 +1,10 @@
 {
 	"de": {
 		"hello": "Hallo",
+		"how_use": "überprüfen, wie man den Bot benutzt",
+		"write": "schreiben",
+		"report_bugs": "Melden Sie Probleme und Fehler an",
+		"support_server": "support server",
 		"error_sending_message": "Ein Fehler ist beim Senden der Nachricht aufgetreten:",
 		"error_player_not_found_title": "Spieler nicht gefunden.",
 		"error_player_not_found_content": "Es wurde kein Spieler mit dem angegebenen Tag gefunden. Bitte gib einen gültigen Tag an.",

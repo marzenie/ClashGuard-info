@@ -1,6 +1,10 @@
 {
 	"it": {
 		"hello": "Ciao",
+		"how_use": "verificare come usare il bot",
+		"write": "scrivere",
+		"report_bugs": "Segnalare eventuali problemi ed errori a",
+		"support_server": "server di supporto",
 		"error_sending_message": "Si è verificato un errore durante l'invio del messaggio:",
 		"error_player_not_found_title": "Giocatore non trovato.",
 		"error_player_not_found_content": "Nessun giocatore con il tag fornito è stato trovato. Si prega di fornire un tag valido.",

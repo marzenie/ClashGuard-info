@@ -1,6 +1,10 @@
 {
 	"pl": {
 		"hello": "Hej",
+		"how_use": "aby sprawdzić, jak używać bota",
+		"write": "wpisz",
+		"report_bugs": "Zgłoś wszelkie problemy i błędy na",
+		"support_server": "serwer wsparcia",
 		"error_sending_message": "Wystąpił błąd podczas wysyłania wiadomości:",
 		"error_player_not_found_title": "Nie znaleziono Gracza.",
 		"error_player_not_found_content": "Nie znaleziono gracza o podanym tagu. Proszę podać poprawny tag.",

@@ -1,6 +1,10 @@
 {
 	"da": {
 		"hello": "Hej",
+		"how_use": "at tjekke, hvordan man bruger robotten",
+		"write": "skrive",
+		"report_bugs": "Rapporter eventuelle problemer og fejl til",
+		"support_server": "support server",
 		"error_sending_message": "Der opstod en fejl under afsendelsen af beskeden:",
 		"error_player_not_found_title": "Spiller ikke fundet.",
 		"error_player_not_found_content": "Ingen spiller med den angivne tag blev fundet. Angiv venligst en gyldig tag.",
